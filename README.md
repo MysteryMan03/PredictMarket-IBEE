@@ -1,5 +1,5 @@
 # Predict_Market - IBEE
-Two different models that "predict" Stock Market trends, this is a project for the Extended Essay in  the International Baccalaureate Program
+Two different models that "predict" Stock Market trends, this is a project for the Extended Essay in  the International Baccalaureate Program. Neither of these models predicts a percentage increase or decrease in share price, rather it works binomally predicting only whether it will go up or down at a 60% certainty level.
 *Disclaimer: These models are intended for educational and entertainment purposes only. Invest at your own risk!*
 
 ### Model 1 - Linear Regression
